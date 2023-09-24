@@ -1,3 +1,3 @@
 # DesafiosDio
 
-Todos os desafios da Dio irei adicionar nesse repoditório
+Todos os desafios da Dio irei adicionar nesse repositório
