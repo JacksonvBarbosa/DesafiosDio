@@ -1,1 +1,3 @@
 # DesafiosDio
+
+Todos os desafios da Dio irei adicionar nesse repoditório
